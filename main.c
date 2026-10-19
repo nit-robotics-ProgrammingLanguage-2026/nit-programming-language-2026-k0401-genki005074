@@ -7,6 +7,6 @@ int main(void) {
 
     scanf("%d",&i);         // キーボードからiに入力
     ? = ? ;                 // iに100を加えて、resultで受ける
-    printf("%d", result);   //resultを表示
+    printf("%d", result　+ 100);   //resultを表示
     return 0;
 }
